@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textmain">Count Down To Election Day</string>
+    <string name="textView7">Days</string>
+    <string name="textView8">Hours</string>
+    <string name="textView9">Minutes</string>
+    <string name="textView10">Seconds</string>
+    <string name="button">NEXT</string>
+
+</resources>
